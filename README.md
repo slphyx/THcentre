@@ -5,3 +5,5 @@
 
 ![](http://www.sakngoi.com/wp-content/uploads/2017/04/thcentre4.png)
 ![](http://www.sakngoi.com/wp-content/uploads/2017/04/thcentre6.png)
+
+https://www.wolframcloud.com/obj/sompob/Published/THcenter.nb
